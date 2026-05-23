@@ -1,0 +1,18 @@
+{
+    "month": 0.0,
+    "quarter": 0.0,
+    "week_of_year": 0.0003,
+    "day_of_month": 0.0002,
+    "day_of_week": 0.0002,
+    "is_weekend": 0.0,
+    "festival_pressure": 0.0052,
+    "Category of Goods_enc": 0.0008,
+    "avg_discount": 0.9744,
+    "avg_sales": 0.0098,
+    "lag_1": 0.003,
+    "lag_7": 0.0007,
+    "lag_14": 0.0017,
+    "lag_30": 0.0013,
+    "rolling_mean_7": 0.0014,
+    "rolling_mean_30": 0.0012
+}

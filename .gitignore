@@ -1,0 +1,7 @@
+.idea/
+README.md
+data/
+.env
+__pycache__/
+*.pyc
+backend/ml/trained_models
