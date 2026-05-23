@@ -1,0 +1,140 @@
+====================================================================
+KNOWLEDGE BASE: DIGITAL RETAIL STORE POLICIES
+====================================================================
+Last Updated: [Insert Date]
+Company Name: [Insert Store Name]
+Contact Email: [Insert Support Email]
+Website: [Insert Website URL]
+====================================================================
+
+--------------------------------------------------------------------
+SECTION 1: RETURN & REFUND POLICY
+--------------------------------------------------------------------
+1.1 Return Window
+Customers have [14/30] days from the date of delivery to initiate a return for eligible items.
+
+1.2 Condition of Returned Items
+To be eligible for a return, the item must be:
+- Unused and in the same condition that the customer received it.
+- In the original packaging with all tags, manuals, and accessories included.
+
+1.3 Non-Returnable Items
+The following items cannot be returned:
+- Downloadable software products or digital gift cards.
+- Intimate, sanitary, or personal care items.
+- Customized or personalized products.
+- Items marked as "Final Sale" or "Clearance."
+
+1.4 Refund Process
+Once the returned item is received and inspected, we will send an email notification.
+- Approved refunds will be processed automatically to the original method of payment within [5-7] business days.
+- Original shipping costs are non-refundable.
+
+1.5 Exchanges
+We only replace items if they are defective or damaged upon arrival. Customers must contact support within [48 hours] of delivery to request an exchange.
+
+
+--------------------------------------------------------------------
+SECTION 2: SHIPPING & DELIVERY POLICY
+--------------------------------------------------------------------
+2.1 Order Processing Time
+All orders are processed within [1-3] business days. Orders are not shipped or delivered on weekends or public holidays.
+
+2.2 Shipping Rates & Delivery Estimates
+Shipping charges for your order will be calculated and displayed at checkout.
+- Standard Shipping: [3-5 business days] - [Price/Free over $X]
+- Expedited Shipping: [1-2 business days] - [Price]
+
+2.3 Order Tracking
+Once an order has shipped, the customer will receive a Shipment Confirmation email containing tracking numbers. The tracking number will be active within 24 hours.
+
+2.4 Lost, Stolen, or Damaged Packages
+- [Store Name] is not liable for any products damaged or lost during shipping.
+- If you received your order damaged, please contact the shipment carrier to file a claim. Save all packaging materials and damaged goods before filing a claim.
+- For packages marked "Delivered" but not received, customers must contact local postal services.
+
+
+--------------------------------------------------------------------
+SECTION 3: PAYMENT & PRICING POLICY
+--------------------------------------------------------------------
+3.1 Accepted Payment Methods
+We accept the following payment methods:
+- Credit/Debit Cards (Visa, MasterCard, American Express, Discover)
+- Digital Wallets (PayPal, Apple Pay, Google Pay)
+- Buy Now, Pay Later (e.g., Klarna, Afterpay) - subject to approval.
+
+3.2 Currency and Taxes
+All prices are listed in [USD/EUR/Local Currency]. Applicable sales tax will be calculated and added at checkout based on the customer's shipping address.
+
+3.3 Price Changes and Price Matching
+- Prices for our products are subject to change without notice.
+- We do not currently offer price matching with competitors.
+- If an item goes on sale within [7 days] of a customer's purchase, we will offer store credit for the price difference upon request.
+
+3.4 Fraud Prevention
+All transactions are subject to fraud checks. We reserve the right to cancel any order that triggers our fraud prevention alerts.
+
+
+--------------------------------------------------------------------
+SECTION 4: PRIVACY & DATA PROTECTION POLICY
+--------------------------------------------------------------------
+4.1 Data Collection
+We collect personal information when you make a purchase, create an account, or sign up for our newsletter. This includes: Name, Shipping/Billing Address, Email, Phone Number, and Payment Details.
+
+4.2 How We Use Your Data
+- To process and fulfill orders.
+- To communicate regarding order status or customer support inquiries.
+- To send promotional emails (only if the customer has opted in).
+
+4.3 Data Sharing
+We do not sell, trade, or rent user data to third parties. We only share data with trusted third-party service providers (e.g., payment processors, shipping companies) necessary to fulfill your order.
+
+4.4 Cookies
+Our store uses cookies to enhance the browsing experience, remember cart contents, and analyze site traffic. Customers can disable cookies in their browser settings, but this may affect site functionality.
+
+
+--------------------------------------------------------------------
+SECTION 5: TERMS OF SERVICE & USER ACCOUNTS
+--------------------------------------------------------------------
+5.1 Account Creation
+Customers are responsible for maintaining the confidentiality of their account login information and password.
+
+5.2 Account Termination
+We reserve the right to suspend or terminate accounts that violate our terms, engage in fraudulent activity, or exhibit abusive behavior toward our support staff.
+
+5.3 User-Generated Content (Reviews)
+Customers may post product reviews. We reserve the right to remove reviews that contain offensive language, spam, or irrelevant content.
+
+
+--------------------------------------------------------------------
+SECTION 6: PROMOTIONS, DISCOUNTS & GIFT CARDS
+--------------------------------------------------------------------
+6.1 Discount Codes
+- Only one discount code can be applied per order.
+- Discount codes cannot be applied to previous purchases.
+- Expired discount codes will not be honored.
+
+6.2 Gift Cards
+- Gift cards do not expire.
+- Gift cards cannot be reloaded, resold, or redeemed for cash (except where required by law).
+- If a purchase exceeds the gift card balance, the remaining amount must be paid with another payment method.
+
+
+--------------------------------------------------------------------
+SECTION 7: CUSTOMER SUPPORT & DISPUTE RESOLUTION
+--------------------------------------------------------------------
+7.1 Contacting Support
+Customers can reach our support team via:
+- Email: [Insert Email]
+- Live Chat: Available on the website during business hours.
+- Phone: [Insert Phone Number]
+
+7.2 Response Time (SLA)
+Our customer support team aims to respond to all inquiries within [24-48 hours] during regular business days (Monday - Friday, 9 AM - 5 PM [Timezone]).
+
+7.3 Dispute Resolution
+If a customer is unsatisfied with a resolution provided by support, the issue can be escalated to a manager by requesting an escalation via email. We aim to resolve all disputes amicably and fairly.
+
+====================================================================
+END OF KNOWLEDGE BASE
+====================================================================
