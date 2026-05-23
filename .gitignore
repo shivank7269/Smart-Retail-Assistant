@@ -5,4 +5,4 @@ data/
 __pycache__/
 *.pyc
 backend/ml/trained_models
-backend/rag/chroma_db
+backend/rag/chroma_db/
