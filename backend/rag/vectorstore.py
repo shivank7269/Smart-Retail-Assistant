@@ -15,11 +15,9 @@ def load_vectorstore():
 
 
 # Retrieve Similar Context
-def retrieve_context(query: str, k=3):
+def retrieve_context(query: str, k=1):
     vectorstore = load_vectorstore()
-
     docs = vectorstore.similarity_search(query, k=k)
-
     context = ""
     for i, doc in enumerate(docs):
         context += f"\nDocument {i + 1}:\n{doc.page_content}\n"

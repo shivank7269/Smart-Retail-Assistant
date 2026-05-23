@@ -1,9 +1,0 @@
-Data Pipeline: Cleaned dataset shape is (100000, 23)
-      Sales  Quantity  Discount  ...  Segment_enc Ship Mode_enc Sub-Category_enc
-0   3344.69         3      0.09  ...            0             1                3
-1  37094.41         5      0.39  ...            1             3               15
-2  35501.08         6      0.07  ...            0             2                9
-3   8969.33         4      0.18  ...            1             0               13
-4  35530.44         4      0.27  ...            0             3               20
-
-[5 rows x 23 columns]

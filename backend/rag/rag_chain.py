@@ -16,13 +16,12 @@ llm = AzureChatOpenAI(
 )
 
 vectorstore = load_vectorstore()
-
 retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 
 prompt = ChatPromptTemplate.from_messages([
     ("system", "You are a Smart Retail Assistant for an Indian retail chain.\n\n"
-               "Provide a clear, structured, and easy-to-read answer using ONLY the provided context.\n"
-               "Use bullet points if listing multiple conditions, policies, or rules.\n"
+               "Read the context and give the answer to the question"
+               "just print question and the answer"
                "If the exact answer is not contained in the context, output exactly: 'I do not have information on that.'\n\n"
                "Context:\n{context}"),
     ("human", "{question}")
@@ -31,22 +30,12 @@ prompt = ChatPromptTemplate.from_messages([
 def rag_answer(question: str) -> str:
     try:
         docs = retriever.invoke(question)
-
-        print("\n========== RETRIEVED DOCS ==========\n")
-
-        for i, doc in enumerate(docs):
-            print(f"\n--- DOC {i+1} ---")
-            print(doc.page_content)
-
         context = "\n\n".join([doc.page_content for doc in docs])
-
         final_prompt = prompt.format(
             context=context,
             question=question
         )
-
         response = llm.invoke(final_prompt)
-
         return response.content
 
     except Exception as e:
