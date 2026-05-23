@@ -21,7 +21,7 @@ retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 prompt = ChatPromptTemplate.from_messages([
     ("system", "You are a Smart Retail Assistant for an Indian retail chain.\n\n"
                "Read the context and give the answer to the question"
-               "just print question and the answer"
+               "just print the answer"
                "If the exact answer is not contained in the context, output exactly: 'I do not have information on that.'\n\n"
                "Context:\n{context}"),
     ("human", "{question}")
