@@ -3,6 +3,9 @@ from pydantic import BaseModel
 import os
 import json
 
+import logging
+logger = logging.getLogger(__name__)
+
 # Import your ML agents
 from backend.agents import demand_agent, anomaly_agent
 

@@ -11,7 +11,7 @@ def test_health_check():
 def test_predict_demand():
     payload = {"query": "How many units of clothing will sell in South next week?"}
     response = client.post("/api/predict/demand", json=payload)
-    assert response.status_code == 200
+    assert response.status_code == 200, f"API crashed with: {response.text}"
     data = response.json()
     assert "prediction" in data
 
