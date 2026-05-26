@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 backend/ml/trained_models
 backend/rag/chroma_db/
+docs/Smart_Retail_Assistant_Documentation.docx
+docs/smart_retail_customer_summary.pdf
+docs/smart_retail_sales_summary.pdf
